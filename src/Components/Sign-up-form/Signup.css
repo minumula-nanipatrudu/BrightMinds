@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  /* font-size: 52.5%; */
+  box-sizing: border-box;
+
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  /* background-color: #f6f6f6; */
+}
+
+.sign-up-start {
+  color: #1e56a0;
+  font-size: 10px;
+}
+
+.sign-up-account {
+  font-weight: 1200px;
+}
+.sign-up-member {
+  font-size: 12px;
+  font-weight: 600;
+  padding-top: 4px;
+}
+
+.login-link {
+  text-decoration: none;
+}
+span {
+  color: #1e56a0;
+  font-weight: bold;
+}
+.sign-up-names {
+  padding-top: 18px;
+  padding-bottom: 12px;
+}
+
+.first-name {
+  border-radius: 6px;
+  /* background-color: #dee4f0; */
+  border: none;
+  height: 30px;
+  width: 140px;
+  font-size: 12px;
+  padding-left: 3px;
+  border: 1px solid #1e56a0;
+}
+
+.sur-name {
+  border-radius: 6px;
+  height: 30px;
+  width: 140px;
+  font-size: 12px;
+  padding-left: 3px;
+  border: none;
+  /* background-color: #dee4f0; */
+  border: 1px solid #1e56a0;
+}
+
+.sign-up-mail {
+  height: 30px;
+  width: 293px;
+  font-size: 12px;
+  padding-left: 3px;
+  border-radius: 6px;
+  margin-bottom: 12px;
+  border: none;
+  /* background-color: #dee4f0; */
+  border: 1px solid #1e56a0;
+}
+
+.sign-up-password {
+  height: 30px;
+  width: 293px;
+  font-size: 12px;
+  padding-left: 3px;
+  border-radius: 6px;
+  border: none;
+  /* background-color: #dee4f0; */
+  border: 1px solid #1e56a0;
+}
+
+.button {
+  text-align: center;
+  padding-top: 8px;
+  margin-top: 20px;
+}
+.sign-up-button {
+  align-items: center;
+  font-size: 14px;
+  /* font-weight: bold; */
+  color: #f6f6f6;
+  background-color: #1e56a0;
+  border: none;
+  height: 40px;
+  width: 140px;
+  border-radius: 30px;
+}
+
+.sign-up-button:hover {
+  color: #1e56a0;
+  background-color: #f6f6f6ff;
+  border: 1px solid #1e56a0;
+}

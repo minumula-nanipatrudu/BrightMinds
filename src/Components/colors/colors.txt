@@ -1,0 +1,16 @@
+
+--Primary Colour
+
+#1E56A0
+
+--Dark colour 
+
+#163172
+
+--Grey Colour
+
+#D6E4F0
+
+--White Colour
+
+#F6F6F6
